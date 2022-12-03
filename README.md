@@ -20,9 +20,9 @@ Created a multi-page website that is responsive using React.js and SCSS
 
 ### Screenshot
 
-![Mobile Preview- 320px](./images/Mobile.png)
+![Mobile Preview- 320px](./src/images/Mobile.png)
 
-![Desktop Preview- 1024px](./images/Desktop.png)
+![Desktop Preview- 1024px](./src/images/Desktop.png)
 
 ### Links
 
