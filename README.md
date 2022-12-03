@@ -29,7 +29,7 @@ Created a multi-page website that is responsive using React.js and SCSS
 - Solution URL: [https://github.com/Mbrimes/Naijalink-Clone.git](https://github.com/Mbrimes/Naijalink-Clone.git)
 - Live Site URL: [https://naijalink-clone.netlify.app/](https://naijalink-clone.netlify.app/)
 
-## My process
+### My process
 
 -Installed React, React Router and a few dependencies needed for my project
 -Used SCSS as my css pre-processor for writing my css file
