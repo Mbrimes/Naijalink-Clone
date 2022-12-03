@@ -31,9 +31,9 @@ Created a multi-page website that is responsive using React.js and SCSS
 
 ### My process
 
--Installed React, React Router and a few dependencies needed for my project
--Used SCSS as my css pre-processor for writing my css file
--On completion i did a quick overview of my code and the website on my localhost, before pushing it to my git repository and deploying it on Netlify.
+- Installed React, React Router and a few dependencies needed for my project
+- Used SCSS as my css pre-processor for writing my css file
+- On completion I did a review of my code and the website on my localhost, before pushing it to my git repository and deploying it on Netlify.
 
 ### Built with
 
